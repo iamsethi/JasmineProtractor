@@ -1,0 +1,16 @@
+https://www.protractortest.org/#/api?view=ProtractorBrowser
+sudo npm install -g protractor
+sudo webdriver-manager update
+/usr/local/lib/node_modules/protractor/built/cli.js
+paste package.json
+npm install will install all the dependencies which are mentioned in package.json
+ketan@ketan-Inspiron-3521:~/WebstormProjects/ProtractorTest$ npm install
+ctrl shift P - Extension- install Extension -> Protractor Snippet -> epxp element by xpath
+winston - generate logs
+allure reports in Jasmine 2 - (i) npm i jasmine-allure-reporter (ii) https://www.npmjs.com/package/jasmine-allure-reporter
+(iii) Generate Allure Report using Maven -> 
+ketan@ketan-Inspiron-3521:~/WebstormProjects/TestSuites/node_modules/jasmine-allure-reporter$ mvn site -Dallure.results_pattern=allure-results
+Allure reports - Open in Firefox only
+Reports location-> Generate report to /home/ketan/WebstormProjects/TestSuites/node_modules/jasmine-allure-reporter/target/site/allure-maven-plugin
+Sending email report -> npm i nodemailer , OnComplete function in conf.js and mail.js
+Excel - npm i xlsx

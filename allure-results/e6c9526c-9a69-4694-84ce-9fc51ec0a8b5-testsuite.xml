@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1541342406085" stop="1541342421020">
+	<name>Test Gmail</name>
+	<title>Test Gmail</title>
+	<test-cases>
+		<test-case start="1541342406086" stop="1541342410857" status="passed">
+			<name>Validate user credentials</name>
+			<title>Validate user credentials</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="99601952-39b0-467a-902f-335a5db03027-attachment.png" type="image/png" size="32154"/>
+			</attachments>
+		</test-case>
+		<test-case start="1541342410857" stop="1541342421019" status="passed">
+			<name>Validate user credentials</name>
+			<title>Validate user credentials</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="cd0b516c-6e17-46de-8905-ff0ad460e405-attachment.png" type="image/png" size="628630"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

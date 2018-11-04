@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1541339635706" stop="1541339638840">
+	<name>Test Automation of a banking app</name>
+	<title>Test Automation of a banking app</title>
+	<test-cases>
+		<test-case start="1541339635708" stop="1541339638839" status="passed">
+			<name>validate customer login test</name>
+			<title>validate customer login test</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="4022b85e-e0cb-4a33-97a9-32960941612f-attachment.png" type="image/png" size="14877"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

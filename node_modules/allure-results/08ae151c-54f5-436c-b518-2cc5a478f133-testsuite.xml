@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1541336819801" stop="1541336820960">
+	<name>Test Automation of a banking app</name>
+	<title>Test Automation of a banking app</title>
+	<test-cases>
+		<test-case start="1541336819801" stop="1541336819803" status="pending">
+			<name>validate customer login test</name>
+			<title>validate customer login test</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>This test has not been implemented yet</message>
+				<stack-trace></stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1541336819804" stop="1541336820960" status="passed">
+			<name>validate title test</name>
+			<title>validate title test</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="130d1ce8-2f11-41c5-8586-ad05fb8c3914-attachment.png" type="image/png" size="11991"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>
