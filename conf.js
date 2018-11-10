@@ -14,7 +14,7 @@ exports.config = {
     
 
 
-    specs: ['./protractorbasics/Banking.js'],
+    specs: ['./nonangular/TabsandPopups.js'],
 
     // suites: {
     
