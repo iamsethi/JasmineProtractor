@@ -5,7 +5,7 @@ describe("Test Automation of a banking app",function(){
         browser.get("http://www.way2automation.com/angularjs-protractor/banking/#/login");
         element(by.buttonText("Customer Login")).click();
         element(by.b)
-        expect(browser.getTitle()).toContain("1Protractor practice");
+        expect(browser.getTitle()).toContain("Protractor practice");
 
         element.all(by.css("#userSelect option")).then(function(items){
 
@@ -47,7 +47,7 @@ describe("Test Automation of a banking app",function(){
 
              });*/
 
-            expect(element(by.binding("user")).getText()).toContain("1Harry");
+            expect(element(by.binding("user")).getText()).toContain("Harry");
 
             browser.sleep(3000);
 

@@ -14,7 +14,7 @@ exports.config = {
     
 
 
-    specs: ['./ExcelTest.js'],
+    specs: ['./protractorbasics/Banking.js'],
 
     // suites: {
     
