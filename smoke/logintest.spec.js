@@ -12,3 +12,15 @@ describe("Test Automation of a banking app",function(){
 
 
 });
+
+describe("Ketan Sethi",function(){
+it("validate test",function(){
+
+    browser.get("http://www.way2automation.com/angularjs-protractor/banking/#/login");
+    element(by.buttonText("Customer Login")).click();
+    console.log("Smoke: Executing login test");
+
+
+});
+
+});

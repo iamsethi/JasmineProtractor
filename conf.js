@@ -14,7 +14,7 @@ exports.config = {
     
 
 
-    specs: ['./nonangular/TabsandPopups.js'],
+    specs: ['./protractorbasics/Testcustomlocator.js'],
 
     // suites: {
     
