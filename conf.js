@@ -14,18 +14,18 @@ exports.config = {
     
 
 
-    specs: ['./protractorbasics/Testcustomlocator.js'],
+   // specs: ['./protractorbasics/calculator.js'],
 
-    // suites: {
+     suites: {
     
-    //     smoke: ['./smoke/*.spec.js'],
-    //     regression: ['./regression/*.spec.js'],
-    //     functional: ['./functional/*.spec.js'],
-    //     all: ['./*/*.spec.js'],
-    //     selected: ['./functional/addcustomer.spec.js', './regression/openaccount.spec.js'],
+        smoke: ['./smoke/*.spec.js'],
+        regression: ['./regression/*.spec.js'],
+        functional: ['./functional/*.spec.js'],
+        all: ['./*/*.spec.js'],
+        selected: ['./functional/addcustomer.spec.js', './regression/openaccount.spec.js'],
     
     
-    // },
+    },
 
 
     // Options to be passed to Jasmine.
